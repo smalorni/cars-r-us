@@ -1,0 +1,20 @@
+.options {
+    margin: 0 1rem;
+    border: 0.3rem solid rgb(51, 76, 220);
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(128, 190, 244);
+    text-align: center;
+}
+
+.choices {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    justify-content: center;
+    padding: 2rem;
+    
+}
+#orderButton {
+    background-color: rgb(39, 117, 242);
+    color:white;
+}
